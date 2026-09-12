@@ -16,7 +16,7 @@ public class Increment {
     }
 }
 
-public class InnerIncrement {
+public class Increment {
         public static void main(String[] args) {
 
         int a = 7;
